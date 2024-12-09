@@ -1,2 +1,54 @@
-# Auto detect text files and perform LF normalization
+<!DOCKtype html>
+<html>
+<head>
+<style>
+h3
+{
+background-color:yellow;
+}
+
+
+h1
+{
+text-align:center;
+}
+
+</style>
+</head>
+<h1>DAY-2 TASK-2 </h1>
+<body style=background-color:lightgreen;>
+
+<img src='image//0305.jpg' width='200px' height='300px'> <br>
+
+<nav>
+<ol>
+<!--inline-->
+<li><h2 style="background-color:white;">web pag development</h2></li>
+<li><h3 style="background-color:white;">python development</h3></li>
+<li><h4 style="background-color:white;">digital marketing </h4></li>
+<li><h5 style="background-color:white;">ui/ux development</h5></li>
+<li><h6 style="background-color:white;">and more </h6></li>
+</ol>
+</nav>
+
+<h3><b>es, you can enroll in as many courses as you want from Great Learning Academy. There is no limit to the number of courses you can
+ enroll in at once, but since the courses offered by Great Learning Academy are free, we suggest you learn one by one to get the best out 
+ of the subject.</b></h3>
+ 
+ 
+ <p style=color:red;>es, you can enroll in as many courses as you want from Great Learning Academy. There is no limit to the number of courses you can
+ enroll in at once, but since the courses offered by Great Learning Academy are free, we suggest you learn one by one to get the best out 
+ of the subject.</p>
+
+<p title='pargarapght text'> The aim of this mini-course is to give experienced developers a clear and concise overview of the Python language, so they can 
+understand and write Python code in as short a time as possible. There are many Python books, courses, and tutorials out there, but this 
+one is different in a way that it provides only the bare minimum information to be productive, thereby making use of your existing
+ programming knowledge and not wasting your time with unnecessary background information.</p>
+ 
+ <h2>attributes</h2>
+ 
+<h2>ANYONE DOUBT SEARCH:</h2><a href='https://www.google.com' target='_self'> <h2>google link</h2></a><br>
+<h2>ANYONE DOUBT SEARCH:</h2><a href='https://www.youtube.com' target='_self'> <h2>youtube link</h2></a>
+</body>
+</html># Auto detect text files and perform LF normalization
 * text=auto
